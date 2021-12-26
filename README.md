@@ -9,8 +9,8 @@ ADMINTRAINEE       : user - kishor pwd - password
 STUDENT            : user - bankar pwd - password
 ```
 
-Student api : http://localhost:8080/api/students
+Student api : http://localhost:8081/api/students
 
-Management api : http://localhost:8080/managements/api
+Management api : http://localhost:8081/managements/api
 
 http://localhost:8080/logout
